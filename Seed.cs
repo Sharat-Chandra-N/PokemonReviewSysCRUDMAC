@@ -49,6 +49,7 @@ namespace PokemonReviewSys
                         }
                     },
                     new PokemonOwner()
+
                     {
                         Pokemon = new Pokemon()
                         {
